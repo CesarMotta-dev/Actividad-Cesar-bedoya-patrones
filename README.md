@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LibraryLab
 
 API educativa de biblioteca para registrar usuarios, libros y equipos, consultar disponibilidad y gestionar préstamos y devoluciones. La solución apunta a **.NET 8** para ejecutarse en los equipos de la universidad.
@@ -146,3 +147,7 @@ Las implementaciones se encuentran en `src/LibraryLab.Application/Exercises/Patt
 - [Cambio OpenSpec de patrones](openspec/changes/implement-design-patterns/proposal.md)
 - [Diseño OpenSpec de patrones](openspec/changes/implement-design-patterns/design.md)
 - [Tareas OpenSpec de patrones](openspec/changes/implement-design-patterns/tasks.md)
+=======
+# Actividad-Cesar-bedoya-patrones
+patrones 
+>>>>>>> 56dd88d66625ded1764170db9ef564202b48b115
